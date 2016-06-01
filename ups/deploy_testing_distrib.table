@@ -1,0 +1,4 @@
+setupRequired(meas_deblender)
+setupRequired(obs_test)
+setupOptional(obs_cfht)
+setupOptional(obs_subru)
