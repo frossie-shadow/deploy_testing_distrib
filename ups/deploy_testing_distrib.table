@@ -1,0 +1,5 @@
+setupRequired(sconsUtils)
+setupRequired(base)
+setupRequired(utils)
+#setupOptional(obs_test)
+#setupOptional(obs_cfht)
